@@ -1,4 +1,3 @@
-
 # Local Managed Identity Solutions
 
 This repo explores various solutions for enabling local development and testing of applications that rely on Azure Managed Identities. The solutions include a local IMDS service and a proxy for the Azure IMDS service. The local IMDS service can be used to retrieve tokens for managed identities in a local development environment. The proxy can be used to retrieve tokens from the local IMDS service or the live Azure IMDS service. The solutions are useful for developing and testing applications that rely on managed identities without the need to deploy to Azure.
