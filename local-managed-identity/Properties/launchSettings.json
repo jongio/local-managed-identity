@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "local-managed-identity": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "MSI_ENDPOINT": "http://localhost:5616/api/msi/forward"
+      }
+    }
+  }
+}

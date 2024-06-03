@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "local-managed-identity", "local-managed-identity.csproj", "{9A15E5D2-D83A-4113-9F4E-3B0E87C44554}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6BAB6AB5-16AA-4E93-8700-187B30ED3A7D}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A15E5D2-D83A-4113-9F4E-3B0E87C44554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A15E5D2-D83A-4113-9F4E-3B0E87C44554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A15E5D2-D83A-4113-9F4E-3B0E87C44554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A15E5D2-D83A-4113-9F4E-3B0E87C44554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B61D94-0230-4ADC-8BC9-0B418EC6B2ED}
+	EndGlobalSection
+EndGlobal
